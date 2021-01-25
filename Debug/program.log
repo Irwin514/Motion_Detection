@@ -1,0 +1,21 @@
+﻿Build started 2019-05-04 10:57:02 PM.
+     1>Project "P:\Concordia\Semesters\2019Winter\M472-Auto\ProjectFiles\Complete Code - New Library\Optional\Optional Motion Detect\program.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D CONSOLE_IO /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MTd /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt program.cpp
+         program.cpp
+     1>program.cpp(38): warning C4101: 'fp' : unreferenced local variable
+     1>program.cpp(32): warning C4101: 'size' : unreferenced local variable
+     1>program.cpp(34): warning C4101: 'pixelcount2' : unreferenced local variable
+     1>program.cpp(39): warning C4101: 'fileName' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\program.exe" /INCREMENTAL /NOLOGO image_transfer3.lib odbc32.lib odbccp32.lib winmm.lib wsock32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmtd /NODEFAULTLIB:libcd /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\program.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\program.lib" /MACHINE:X86 /SAFESEH .\Debug\program.obj
+         .\Debug\serial_com.obj
+         .\Debug\techLead.obj
+         .\Debug\timer.obj
+         .\Debug\vision.obj
+         program.vcxproj -> P:\Concordia\Semesters\2019Winter\M472-Auto\ProjectFiles\Complete Code - New Library\Optional\Optional Motion Detect\.\Debug\program.exe
+     1>Done Building Project "P:\Concordia\Semesters\2019Winter\M472-Auto\ProjectFiles\Complete Code - New Library\Optional\Optional Motion Detect\program.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.19
