@@ -1,0 +1,176 @@
+MOTION DETECTION UPDATE IS AS FOLLOWS:
+
+
+
+**** You selected 'Medium Sensitivty'. ****
+At time: 4 seconds, there was no motion around the 3D printer!
+
+
+**** At time: 8 seconds, there was motion around the 3D printer! ****
+
+
+At time: 12 seconds, there was no motion around the 3D printer!
+
+
+At time: 16 seconds, there was no motion around the 3D printer!
+
+
+At time: 20 seconds, there was no motion around the 3D printer!
+
+
+At time: 24 seconds, there was no motion around the 3D printer!
+
+
+**** At time: 28 seconds, there was motion around the 3D printer! ****
+
+
+At time: 32 seconds, there was no motion around the 3D printer!
+
+
+**** At time: 36 seconds, there was motion around the 3D printer! ****
+
+
+At time: 40 seconds, there was no motion around the 3D printer!
+
+
+At time: 44 seconds, there was no motion around the 3D printer!
+
+
+At time: 48 seconds, there was no motion around the 3D printer!
+
+
+**** At time: 52 seconds, there was motion around the 3D printer! ****
+
+
+**** At time: 56 seconds, there was motion around the 3D printer! ****
+
+
+At time: 60 seconds, there was no motion around the 3D printer!
+
+
+At time: 64 seconds, there was no motion around the 3D printer!
+
+
+At time: 68 seconds, there was no motion around the 3D printer!
+
+
+At time: 72 seconds, there was no motion around the 3D printer!
+
+
+At time: 76 seconds, there was no motion around the 3D printer!
+
+
+At time: 80 seconds, there was no motion around the 3D printer!
+
+
+At time: 84 seconds, there was no motion around the 3D printer!
+
+
+At time: 88 seconds, there was no motion around the 3D printer!
+
+
+At time: 92 seconds, there was no motion around the 3D printer!
+
+
+At time: 96 seconds, there was no motion around the 3D printer!
+
+
+At time: 100 seconds, there was no motion around the 3D printer!
+
+
+At time: 104 seconds, there was no motion around the 3D printer!
+
+
+At time: 108 seconds, there was no motion around the 3D printer!
+
+
+At time: 112 seconds, there was no motion around the 3D printer!
+
+
+At time: 116 seconds, there was no motion around the 3D printer!
+
+
+At time: 120 seconds, there was no motion around the 3D printer!
+
+
+At time: 124 seconds, there was no motion around the 3D printer!
+
+
+At time: 128 seconds, there was no motion around the 3D printer!
+
+
+At time: 132 seconds, there was no motion around the 3D printer!
+
+
+At time: 136 seconds, there was no motion around the 3D printer!
+
+
+At time: 140 seconds, there was no motion around the 3D printer!
+
+
+At time: 144 seconds, there was no motion around the 3D printer!
+
+
+At time: 148 seconds, there was no motion around the 3D printer!
+
+
+At time: 152 seconds, there was no motion around the 3D printer!
+
+
+At time: 156 seconds, there was no motion around the 3D printer!
+
+
+At time: 160 seconds, there was no motion around the 3D printer!
+
+
+At time: 164 seconds, there was no motion around the 3D printer!
+
+
+At time: 168 seconds, there was no motion around the 3D printer!
+
+
+At time: 172 seconds, there was no motion around the 3D printer!
+
+
+At time: 176 seconds, there was no motion around the 3D printer!
+
+
+At time: 180 seconds, there was no motion around the 3D printer!
+
+
+At time: 184 seconds, there was no motion around the 3D printer!
+
+
+At time: 188 seconds, there was no motion around the 3D printer!
+
+
+At time: 192 seconds, there was no motion around the 3D printer!
+
+
+At time: 196 seconds, there was no motion around the 3D printer!
+
+
+At time: 200 seconds, there was no motion around the 3D printer!
+
+
+At time: 204 seconds, there was no motion around the 3D printer!
+
+
+At time: 208 seconds, there was no motion around the 3D printer!
+
+
+At time: 212 seconds, there was no motion around the 3D printer!
+
+
+At time: 216 seconds, there was no motion around the 3D printer!
+
+
+At time: 220 seconds, there was no motion around the 3D printer!
+
+
+**** At time: 224 seconds, there was motion around the 3D printer! ****
+
+
+At time: 228 seconds, there was no motion around the 3D printer!
+
+
